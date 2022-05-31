@@ -16,7 +16,7 @@ class MainPageLocators:
 
 class MainPageDates:
     phone = "77089378518"
-    password = "Aaidooka12"
+    password = "Some"
 
 class MainPageHelper(BasePage):
     def authorization(self):
